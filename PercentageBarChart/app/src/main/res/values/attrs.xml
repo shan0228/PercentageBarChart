@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="titleText" format="string" />
+    <attr name="titleTextColor" format="color" />
+    <attr name="titleTextSize" format="dimension" />
+    <attr name="barHeight" format="dimension" />
+    <attr name = "titleIcon" format = "reference|color" />
+
+    <declare-styleable name="PercentageBarChartView">
+        <attr name="titleText" />
+        <attr name="titleTextColor" />
+        <attr name="titleTextSize" />
+        <attr name="titleIcon" />
+        <attr name="barHeight" />
+    </declare-styleable>
+
+</resources>
